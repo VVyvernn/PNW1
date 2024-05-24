@@ -1,0 +1,8 @@
+\begin{tabular}{lrrrr}
+\toprule
+ & accuracy & precision & recall & f1 score \\
+estimators &  &  &  &  \\
+\midrule
+100 & 0.953873 & 0.949243 & 0.957641 & 0.953423 \\
+\bottomrule
+\end{tabular}
